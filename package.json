@@ -1,19 +1,19 @@
 {
-    "name": "Godfatherz-Bot-MD",
+    "name": "Rush-v10md",
     "version": "13.0.0",
-    "description": "Whatsapp Bot By DGFenix",
+    "description": "Whatsapp Bot By rush",
     "main": "index.js",
     "type": "commonjs",
     "directories": {
         "lib": "lib",
         "src": "src",
-        "media": "FeniXox"
+        "media": "rush"
     },
     "scripts": {
         "start": "node index.js"
     },
-    "author": "Fenix",
-    "license": "MIT",
+    "author": "rush",
+    "license": "bba",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.7.2",
         "@adiwajshing/keyed-db": "^0.2.4",
