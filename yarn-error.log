@@ -14,13 +14,13 @@ Platform:
   android arm64
 
 Trace: 
-  Error: EACCES: permission denied, symlink '../../../../similarity/cli.js' -> '/storage/emulated/0/Godfather/node_modules/@bochilteam/scraper-religions/node_modules/.bin/similarity'
+  Error: EACCES: permission denied, symlink '../../../../similarity/cli.js' -> '/storage/emulated/0/Rush-v10md/node_modules/@bochilteam/scraper-religions/node_modules/.bin/similarity'
 
 npm manifest: 
   {
-      "name": "Godfatherz-Bot-MD",
+      "name": "Rush-v10md",
       "version": "13.0.0",
-      "description": "Whatsapp Bot By DGFenix",
+      "description": "Whatsapp Bot By Rush",
       "main": "index.js",
       "type": "commonjs",
       "directories": {
