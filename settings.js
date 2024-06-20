@@ -34,7 +34,7 @@ global.mess = {
     success: '*Your Succeed!*'
 }
 
-global.thumb = fs.readFileSync('./FeniXox/theme/Rushzpic.jpg')
+global.thumb = fs.readFileSync('./FeniXox/theme/Godfatherzpic.jpg')
 
 
 global.xbugtex = {
